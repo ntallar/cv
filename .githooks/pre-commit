@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec pandoc -s cv.tex -o README.md
