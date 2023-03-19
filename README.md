@@ -1,111 +1,157 @@
-  --------------------------------------------------------- --------------------------------------------------------------
-  **[Sourabh Bajaj](http://sourabhbajaj.com/)**               Email : [mail\@website.com](mailto:sourabh@sourabhbajaj.com)
-  [http://www.sourabhbajaj.com](http://sourabhbajaj.com/)                                         Mobile : +1-123-456-7890
-  --------------------------------------------------------- --------------------------------------------------------------
-
-Education
-=========
-
--   ---------------------------------------------------- --------------------------
-      **Georgia Institute of Technology**                                 Atlanta, GA
-      *Master of Science in Computer Science; GPA: 4.00*     *Aug. 2012 -- Dec. 2013*
-      ---------------------------------------------------- --------------------------
-
--   -------------------------------------------------------------------------------- ---------------------------
-      **Birla Institute of Technology and Science**                                                  Pilani, India
-      *Bachelor of Engineering in Electrical and Electronics; GPA: 3.66 (9.15/10.0)*     *Aug. 2008 -- July. 2012*
-      -------------------------------------------------------------------------------- ---------------------------
-
-Experience
-==========
-
--   --------------------- ----------------------
-      **Google**                 Mountain View, CA
-      *Software Engineer*     *Oct 2016 - Present*
-      --------------------- ----------------------
-
-    -   **Tensorflow**: TensorFlow is an open source software library
-        for numerical computation using data flow graphs; primarily used
-        for training deep learning models.
-
-    -   **Apache Beam**: Apache Beam is a unified model for defining
-        both batch and streaming data-parallel processing pipelines, as
-        well as a set of language-specific SDKs for constructing
-        pipelines and runners.
-
--   ---------------------------- -----------------------
-      **Coursera**                       Mountain View, CA
-      *Senior Software Engineer*     *Jan 2014 - Oct 2016*
-      ---------------------------- -----------------------
-
-    -   **Notifications**: Service for sending email, push and in-app
-        notifications. Involved in features such as delivery time
-        optimization, tracking, queuing and A/B testing. Built an
-        internal app to run batch campaigns for marketing etc.
-
-    -   **Nostos**: Bulk data processing and injection service from
-        Hadoop to Cassandra and provides a thin REST layer on top for
-        serving offline computed data online.
-
-    -   **Workflows**: Dataduct an open source workflow framework to
-        create and manage data pipelines leveraging reusables patterns
-        to expedite developer productivity.
-
-    -   **Data Collection**: Designed the internal survey and crowd
-        sourcing platfowm which allowed for creating various tasks for
-        crowd sourding or embedding surveys across the Coursera
-        platform.
-
-    -   **Dev Environment**: Analytics environment based on docker and
-        AWS, standardized the python and R dependencies. Wrote the core
-        libraries that are shared by all data scientists.
-
-    -   **Data Warehousing**: Setup, schema design and management of
-        Amazon Redshift. Built an internal app for access to the data
-        using a web interface. Dataduct integration for daily ETL
-        injection into Redshift.
-
-    -   **Recommendations**: Core service for all recommendation systems
-        at Coursesa, currently used on the homepage and throughout the
-        content discovery process. Worked on both offline training and
-        online serving.
-
-    -   **Content Discovery**: Improved content discovery by building a
-        new onboarding experience on coursera. Using this to personalize
-        the search and browse experience. Also worked on ranking and
-        indexing improvements.
-
-    -   **Course Dashboards**: Instructor dashboards and learner
-        surveying tools, which helped instructors run their class better
-        by providing data on Assignments and Learner Activity.
-
--   --------------------- ------------------------
-      **Lucena Research**                Atlanta, GA
-      *Data Scientist*        *Summer 2012 and 2013*
-      --------------------- ------------------------
-
-    -   **Portfolio Management**: Created models for portfolio hedging,
-        portfolio optimization and price forecasting. Also creating a
-        strategy backtesting engine used for simulating and backtesting
-        strategies.
-
-    -   **QuantDesk**: Python backend for a web application used by
-        hedge fund managers for portfolio management.
-
-Projects
-========
-
--   **QuantSoftware Toolkit**: Open source python library for financial
-    data analysis and machine learning for finance.
-
--   **Github Visualization**: Data Visualization of Git Log data using
-    D3 to analyze project trends over time.
-
--   **Recommendation System**: Music and Movie recommender systems using
-    collaborative filtering on public datasets.
-
-Programming Skills
-==================
-
--   **Languages**: Scala, Python, Javascript, C++, SQL, Java
-    **Technologies**: AWS, Play, React, Kafka, GCE
+<h1>My CV</h1>
+<body>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Nicolás Tallar</strong></td>
+<td style="text-align: left;"> <a href="mailto:nicolastallar@gmail.com">nicolastallar@gmail.com</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"> <a href="https://github.com/ntallar">https://github.com/ntallar</a></td>
+</tr>
+</tbody>
+</table>
+<h1 id="education">Education</h1>
+<ul>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Universidad de Buenos Aires</strong></td>
+<td style="text-align: right;">CABA, Argentina</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>BS+Master in Computer Science; GPA: 9.38</em></td>
+<td style="text-align: right;"><em>Jan. 2012 – sometime in 2023</em></td>
+</tr>
+</tbody>
+</table></li>
+</ul>
+<h1 id="experience">Experience</h1>
+<ul>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Globant</strong></td>
+<td style="text-align: right;">CABA, Argentina</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Tech Leader &amp; Typescript Dev</em></td>
+<td style="text-align: right;"><em>Mar 2023 - now</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Led development of various services for a marketplace application</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Typescript, NestJS, Azure, SQL </span> </span></p></li>
+<li><p><span> <strong>Extensive integration to the Azure ecosystem: Blob Storage (using SAS), Queue Storage, Azure functions</strong> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Tech Leader &amp; Solidity Dev at <a href="https://gitlab.com/atixlabs-oss/agua">Agua project</a></em></td>
+<td style="text-align: right;"><em>Dec 2022 - Mar 2023</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Solidity, Javascript, Hardhat, OpenZeppelin </span> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Tech Leader &amp; Kotlin Dev</em></td>
+<td style="text-align: right;"><em>Dec 2021 - Dec 2022</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Led development of part of the microservices for a gaming application: a Kotlin and a Java microservice, both built on the Spring Boot framework.</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Kotlin (libraries: Arrow), Java, Solidity, Spring Boot, Hardhat, AWS (DynamoDB, S3) </span> </span></p></li>
+<li><p><span> <strong>Market Research of Wallet and NFT products and protocols</strong> </span></p></li>
+<li><p><span> <strong>Design &amp; coordination for the integration of the implemented microservices with the others</strong> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Atix Labs</strong></td>
+<td style="text-align: right;">CABA, Argentina</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Tech Leader &amp; Scala Dev at <a href="https://github.com/input-output-hk/mantis">Mantis project</a></em></td>
+<td style="text-align: right;"><em>Sep 2020 - Jan 2021</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Led modernization of a Ethereum Classic client, a Scala protocol implementation modeled with Akka actors.</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Scala (libraries: Akka, Cats, Monix), NoSQL (RocksDB) </span> </span></p></li>
+<li><p><span> <strong>Design &amp; implementation of a protocol change to Ethereum Classic</strong><span>: <a href="https://ecips.ethereumclassic.org/ECIPs/ecip-1098">a proto-treasury system.</a> </span> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Squad Captain &amp; Scala Dev</em></td>
+<td style="text-align: right;"><em>Sep 2018 - Sep 2020; Jan 2021 - Ago 2021</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Led development of a subteam for a project implementing a new cryptocurrency, through a layered Scala application integrated to Solidity contracts.</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Scala (libraries: Akka, Cats, Monix), Solidity, NoSQL (RocksDB) </span> </span></p></li>
+<li><p><span> <strong>Strict functional programming</strong> </span></p></li>
+<li><p><span> <strong>Research-oriented development</strong><span>: in close communication with a dedicated research team in charge of creating the protocol changes that our team implemented. </span> </span></p></li>
+<li><p><span> <strong>Design &amp; implementation of the synchronization process between nodes of the cryptocurrency</strong> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Haskell Dev at <a href="https://github.com/input-output-hk/project-icarus-importer">Yoroi project</a></em></td>
+<td style="text-align: right;"><em>Jan 2018 - Sep 2018</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Developed a Haskell integration to the Cardano Blockchain, that exposed events happing on it by exporting them to a SQL database. Helped with the Javascript Backend and Frontend as consumers of the produced database.</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Haskell, SQL </span> </span></p></li>
+<li><p><span> <strong>Designed integration with Cardano node</strong> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Scala Dev at <a href="https://github.com/input-output-hk/mantis">Mantis project</a></em></td>
+<td style="text-align: right;"><em>Dec 2016 - Jan 2018</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Developed a Ethereum and Ethereum Classic client, a Scala protocol implementation modeled with Akka actors.</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Scala (Akka actors), NoSQL (LevelDB and RocksDB) </span> </span></p></li>
+<li><p><span> <strong>Network Compatible with Ethereum and Ethereum Classic</strong><span>: basing protocol implementation on the Ethereum paper and other of its implementations. </span> </span></p></li>
+<li><p><span> <strong>Open Source project</strong><span>: with periodic status updates to the community. </span> </span></p></li>
+</ul></li>
+</ul>
+<h1 id="programming-skills">Programming Skills</h1>
+<ul>
+<li><p><span> <strong>Languages</strong><span>: Scala (w/libraries: Akka, Cats, Monix), Kotlin (w/libraries: Arrow), Typescript, Haskell </span> </span></p></li>
+<li><p><span> <strong>Technologies</strong><span>: Spring Boot, NestJS, NoSQL, SQL, AWS (DynamoDB, S3), Azure (functions, Blob, Queue), Docker </span> </span></p></li>
+</ul>
+<h1 id="projects-courses">Projects &amp; Courses</h1>
+<ul>
+<li><p><span> <strong>IOHK Haskell &amp; Cryptocurrency Course</strong><span>: 3 month course focused on Haskell development </span> </span></p></li>
+<li><p><span> <strong>Thesis on Simulations of Selfish Mining attack on the Bitcoin network</strong> </span></p></li>
+</ul>
+</body>
+</html>

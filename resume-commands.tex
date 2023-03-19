@@ -1,0 +1,75 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Subheading commands
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+% Title, subtitle, location, time
+\newcommand{\resumeSubheadingTitleWithoutDesc}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+% Title, subtitle, description, location, time
+\newcommand{\resumeSubheadingTitle}[5]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+
+  \resumeSubheadingDescription{#5}
+}
+
+% Subtitle, description, location, time
+\newcommand{\resumeSubheadingSubtitle}[3]{
+  \vspace{-1pt}\item[]
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textit{\small#1} & \textit{\small #2} \\
+  \end{tabular*}\vspace{-5pt}
+
+  \resumeSubheadingDescription{#3}
+}
+
+\newcommand{\resumeSubheadingSubtitleWithoutDesc}[2]{
+  \vspace{-1pt}\item[]
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textit{\small#1} & \textit{\small #2} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubItemWithDetails}[2]{\resumeItemWithDetails{#1}{#2}\vspace{-4pt}}
+
+\newcommand{\resumeSubheadingDescription}[1]{
+  \vspace{-5pt}
+  \begin{itemize}[leftmargin=-1pt]
+    \item[] \textit{\small#1}
+  \end{itemize}
+  \vspace{-15pt}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Item commands
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    \textbf{#1}{\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithDetails}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemTechStack}[1]{
+  \resumeItemWithDetails{\textit{Tech Stack}}{#1}
+}
