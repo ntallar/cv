@@ -21,8 +21,8 @@
 <td style="text-align: right;">CABA, Argentina</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><em>BS+Master in Computer Science; GPA: 9.38</em></td>
-<td style="text-align: right;"><em>Jan. 2012 – sometime in 2023</em></td>
+<td style="text-align: left;"><em>BS+Master in Computer Science; GPA: 9.36</em></td>
+<td style="text-align: right;"><em>Jan. 2012 – Ago. 2023</em></td>
 </tr>
 </tbody>
 </table></li>
@@ -146,12 +146,12 @@
 <h1 id="programming-skills">Programming Skills</h1>
 <ul>
 <li><p><span> <strong>Languages</strong><span>: Scala (w/libraries: Akka, Cats, Monix), Kotlin (w/libraries: Arrow), Typescript, Haskell </span> </span></p></li>
-<li><p><span> <strong>Technologies</strong><span>: Spring Boot, NestJS, NoSQL, SQL, AWS (DynamoDB, S3), Azure (functions, Blob, Queue), Docker </span> </span></p></li>
+<li><p><span> <strong>Technologies</strong><span>: Spring Boot, NestJS, NoSQL, SQL, AWS (DynamoDB, S3), Azure (functions, Blob, Queue) </span> </span></p></li>
 </ul>
 <h1 id="projects-courses">Projects &amp; Courses</h1>
 <ul>
 <li><p><span> <strong>IOHK Haskell &amp; Cryptocurrency Course</strong><span>: 3 month course focused on Haskell development </span> </span></p></li>
-<li><p><span> <strong>Thesis on Simulations of Selfish Mining attack on the Bitcoin network</strong> </span></p></li>
+<li><p><span> <strong>Thesis on high-scale simulations of Selfish Mining attack on the Bitcoin network</strong> </span></p></li>
 </ul>
 </body>
 </html>
