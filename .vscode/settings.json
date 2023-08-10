@@ -1,0 +1,18 @@
+{
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "builderEnglish",
+      "tools": [
+        "builderEnglish"
+      ]
+    },
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "builderEnglish",
+      "command": "./scripts/build-english.sh",
+      "args": []
+    }
+  ]
+}
