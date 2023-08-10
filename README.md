@@ -46,7 +46,8 @@
 </ul>
 <ul>
 <li><p><span> <strong><em>Tech Stack</em></strong><span>: Typescript, NestJS, Azure, SQL </span> </span></p></li>
-<li><p><span> <strong>Extensive integration to the Azure ecosystem: Blob Storage (using SAS), Queue Storage, Azure functions</strong> </span></p></li>
+<li><p><span> <strong>Extensive integration to the Azure ecosystem</strong><span>: Blob Storage (using SAS), Queue Storage, Azure functions </span> </span></p></li>
+<li><p><span> <strong>Design &amp; coordination for the integration of all services of the application</strong> </span></p></li>
 </ul></li>
 <li><table>
 <tbody>
@@ -68,12 +69,11 @@
 </tbody>
 </table>
 <ul>
-<li><p><em>Led development of part of the microservices for a gaming application: a Kotlin and a Java microservice, both built on the Spring Boot framework.</em></p></li>
+<li><p><em>Led development of various microservices for a gaming application: a Kotlin and a Java microservice, both built on the Spring Boot framework.</em></p></li>
 </ul>
 <ul>
-<li><p><span> <strong><em>Tech Stack</em></strong><span>: Kotlin (libraries: Arrow), Java, Solidity, Spring Boot, Hardhat, AWS (DynamoDB, S3) </span> </span></p></li>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Kotlin (libraries: Arrow), Java, Spring Boot, AWS (DynamoDB, S3) </span> </span></p></li>
 <li><p><span> <strong>Market Research of Wallet and NFT products and protocols</strong> </span></p></li>
-<li><p><span> <strong>Design &amp; coordination for the integration of the implemented microservices with the others</strong> </span></p></li>
 </ul></li>
 <li><table>
 <tbody>
@@ -124,7 +124,7 @@
 </ul>
 <ul>
 <li><p><span> <strong><em>Tech Stack</em></strong><span>: Haskell, SQL </span> </span></p></li>
-<li><p><span> <strong>Designed integration with Cardano node</strong> </span></p></li>
+<li><p><span> <strong>Designed integration with Cardano network</strong> </span></p></li>
 </ul></li>
 <li><table>
 <tbody>
