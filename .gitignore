@@ -1,4 +1,6 @@
-*.*
-!*.tex
-!*.pdf
-!*.md
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.html

@@ -45,7 +45,8 @@
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 
 \input{resume-commands.tex}
-
+\input{dicts/common.tex}
+\input{\dict}
 
 \begin{document}
 
@@ -57,109 +58,106 @@
 
 
 %-----------EDUCATION-----------------
-\section{Education}
+\section{\secEducation}
   \resumeSubHeadingListStart
     \resumeSubheadingTitleWithoutDesc
-      {Universidad de Buenos Aires}{CABA, Argentina}
-      {BS+Master in Computer Science;  GPA: 9.36}{Jan. 2012 -- Ago. 2023}
+      {\uba}{\caba}
+      {\degree}
+      {\degreeDates}
   \resumeSubHeadingListEnd
 
 
 %-----------EXPERIENCE-----------------
-\section{Experience}
+\section{\secExperience}
   \resumeSubHeadingListStart
 
     \resumeSubheadingTitle
-      {Globant}{CABA, Argentina}
-      {Tech Leader \& Typescript Dev}{Mar 2023 - now}
-      {Led development of various services for a marketplace application}
+      {\globant}{\caba}
+      {\marketplacePosition}{\marketplaceDates}
+      {\marketplacePosDetails}
       \resumeItemListStart
-        \resumeItemTechStack{Typescript, NestJS, Azure, SQL}
-        \resumeItem{Extensive integration to the Azure ecosystem: Blob Storage (using SAS), Queue Storage, Azure functions}
+        \resumeItemTechStack{\marketplaceTechStack}
+        \resumeItem{\marketplaceItemi}
       \resumeItemListEnd
 
     \resumeSubheadingSubtitleWithoutDesc
-      {Tech Leader \& Solidity Dev at \href{https://gitlab.com/atixlabs-oss/agua}{Agua project}}{Dec 2022 - Mar 2023}
+      {\aguaPosition}{\aguaDates}
       %{Designed Solidity Smart Contracts, integrating with flows implemented on a NodeJS application.}
       \resumeItemListStart
-        \resumeItemTechStack{Solidity, Javascript, Hardhat, OpenZeppelin}
+        \resumeItemTechStack{\aguaTechStack}
       \resumeItemListEnd
 
     \resumeSubheadingSubtitle
-      {Tech Leader \& Kotlin Dev}{Dec 2021 - Dec 2022}
-      {Led development of part of the microservices for a gaming application: a Kotlin and a Java microservice, both built on the Spring Boot framework.}
+      {\gamingappPosition}{\gamingappDates}
+      {\gamingappPosDetails}
       \resumeItemListStart
-        \resumeItemTechStack{Kotlin (libraries: Arrow), Java, Solidity, Spring Boot, Hardhat, AWS (DynamoDB, S3)}
-        \resumeItem{Market Research of Wallet and NFT products and protocols}
-        \resumeItem{Design \& coordination for the integration of the implemented microservices with the others}
+        \resumeItemTechStack{\gamingappTechStack}
+        \resumeItem{\gamingappItemi}
+        \resumeItem{\gamingappItemii}
       \resumeItemListEnd
 
     \resumeSubheadingTitle
-      {Atix Labs}{CABA, Argentina}
-      {Tech Leader \& Scala Dev at \href{https://github.com/input-output-hk/mantis}{Mantis project}}{Sep 2020 - Jan 2021}
-      {Led modernization of a Ethereum Classic client, a Scala protocol implementation modeled with Akka actors.}
+      {\atix}{\caba}
+      {\mantisiiPosition}{\mantisiiDates}
+      {\mantisiiPosDetails}
       \resumeItemListStart
-        \resumeItemTechStack{Scala (libraries: Akka, Cats, Monix), NoSQL (RocksDB)}
-        \resumeItemWithDetails
-          {Design \& implementation of a protocol change to Ethereum Classic}
-          {\href{https://ecips.ethereumclassic.org/ECIPs/ecip-1098}{a proto-treasury system.}}
+        \resumeItemTechStack{\mantisiiTechStack}
+        \resumeItemWithDetails{\mantisiiItemi}{\mantisiiItemiDetails}
       \resumeItemListEnd
 
     \resumeSubheadingSubtitle
-      {Squad Captain \& Scala Dev}{Sep 2018 - Sep 2020; Jan 2021 - Ago 2021}
-      {Led development of a subteam for a project implementing a new cryptocurrency, through a layered Scala application integrated to Solidity contracts.}
+      {\cryptoPosition}{\cryptoDates}
+      {\cryptoPosDetails}
       \resumeItemListStart
-        \resumeItemTechStack{Scala (libraries: Akka, Cats, Monix), Solidity, NoSQL (RocksDB)}
-        \resumeItem{Strict functional programming}
-        \resumeItemWithDetails
-          {Research-oriented development}
-          {in close communication with a dedicated research team in charge of creating the protocol changes that our team implemented.}
-        \resumeItem{Design \& implementation of the synchronization process between nodes of the cryptocurrency}
+        \resumeItemTechStack{\cryptoTechStack}
+        \resumeItem{\cryptoItemi}
+        \resumeItemWithDetails{\cryptoItemii}{\cryptoItemiiDetails}
+        \resumeItem{\cryptoItemiii}
       \resumeItemListEnd
 
     \resumeSubheadingSubtitle
-      {Haskell Dev at \href{https://github.com/input-output-hk/project-icarus-importer}{Yoroi project}}{Jan 2018 - Sep 2018}
-      {Developed a Haskell integration to the Cardano Blockchain, that exposed events happing on it by exporting them to a SQL database. Helped with the Javascript Backend and Frontend as consumers of the produced database.}
+      {\yoroiPosition}{\yoroiDates}
+      {\yoroiPosDetails}
       \resumeItemListStart
-        \resumeItemTechStack{Haskell, SQL}
-        \resumeItem{Designed integration with Cardano node}
+        \resumeItemTechStack{\yoroiTechStack}
+        \resumeItem{\yoroiItemi}
       \resumeItemListEnd
 
     \resumeSubheadingSubtitle
-      {Scala Dev at \href{https://github.com/input-output-hk/mantis}{Mantis project}}{Dec 2016 - Jan 2018}
-      {Developed a Ethereum and Ethereum Classic client, a Scala protocol implementation modeled with Akka actors.}
+      {\mantisiPosition}{\mantisiDates}
+      {\mantisiPosDetails}
       \resumeItemListStart
-        \resumeItemTechStack{Scala (Akka actors), NoSQL (LevelDB and RocksDB)}
-        \resumeItemWithDetails
-          {Network Compatible with Ethereum and Ethereum Classic}
-          {basing protocol implementation on the Ethereum paper and other of its implementations.}
-        \resumeItemWithDetails
-          {Open Source project}
-          {with periodic status updates to the community.}
+        \resumeItemTechStack{\mantisiTechStack}
+        \resumeItemWithDetails{\mantisiItemi}{\mantisiItemiDetails}
+        \resumeItemWithDetails{\mantisiItemii}{\mantisiItemiiDetails}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
 
 %--------PROGRAMMING SKILLS------------
-\section{Programming Skills}
+\section{\secProgrammingSkills}
  \resumeSubHeadingListStart
-    \resumeSubItemWithDetails{Languages}
-      {Scala (w/libraries: Akka, Cats, Monix), Kotlin (w/libraries: Arrow), Typescript, Haskell}
-      % Solidity
-    \resumeSubItemWithDetails{Technologies}
-      {Spring Boot, NestJS, NoSQL, SQL, AWS (DynamoDB, S3), Azure (functions, Blob, Queue)}
-      % Hardhat, Docker
+    \resumeSubItemWithDetails
+      {\subsecProgrammingLang}
+      {\programmingLang}
+      
+    \resumeSubItemWithDetails
+      {\subsecKnownTech}
+      {\knownTech}
+      
  \resumeSubHeadingListEnd
 
 
 %-----------PROJECTS-----------------
-\section{Projects \& Courses}
+\section{\secProjAndcCurses}
   \resumeSubHeadingListStart
     \resumeSubItemWithDetails
-      {IOHK Haskell \& Cryptocurrency Course}
-      {3 month course focused on Haskell development}
-    \resumeSubItem{Thesis on high-scale simulations of Selfish Mining attack on the Bitcoin network}
+      {\haskellCourse}
+      {\haskellCourseDetails}
+
+    \resumeSubItem
+      {\thesis}
   \resumeSubHeadingListEnd
 
 

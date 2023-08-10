@@ -1,13 +1,14 @@
 #!/bin/bash 
 
 # Generate cv pdf
-pdflatex cv.tex 2>&1 > /dev/null
+./scripts/build-english.sh 2>&1 > /dev/null
+./scripts/build-spanish.sh 2>&1 > /dev/null
 
 # Generate cv png
 # pdftoppm cv.pdf cv -png -singlefile
 
 # Generate HTML
-pandoc -s cv.tex -o cv.html --metadata pagetitle="cv"
+pandoc -s .githooks/cv-html.tex -o cv.html --title="" --metadata pagetitle="cv"
 
 # Update README.md with the name of the current branch
 #BRANCH_NAME=`git rev-parse --abbrev-ref HEAD`
@@ -17,4 +18,4 @@ echo "<h1>My CV</h1>" > README.md
 tail -n +15 cv.html >> README.md
 
 # Add changes to the current commit
-git add README.md cv.pdf
+git add README.md cv-es.pdf cv-sp.pdf

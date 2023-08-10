@@ -22,7 +22,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>BS+Master in Computer Science; GPA: 9.36</em></td>
-<td style="text-align: right;"><em>Jan. 2012 – Ago. 2023</em></td>
+<td style="text-align: right;"><em>Jan. 2012 – Aug. 2023</em></td>
 </tr>
 </tbody>
 </table></li>
@@ -88,7 +88,7 @@
 </tbody>
 </table>
 <ul>
-<li><p><em>Led modernization of a Ethereum Classic client, a Scala protocol implementation modeled with Akka actors.</em></p></li>
+<li><p><em>Led modernization of a Ethereum Classic client: a Scala protocol implementation modeled with Akka actors.</em></p></li>
 </ul>
 <ul>
 <li><p><span> <strong><em>Tech Stack</em></strong><span>: Scala (libraries: Akka, Cats, Monix), NoSQL (RocksDB) </span> </span></p></li>
@@ -98,7 +98,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><em>Squad Captain &amp; Scala Dev</em></td>
-<td style="text-align: right;"><em>Sep 2018 - Sep 2020; Jan 2021 - Ago 2021</em></td>
+<td style="text-align: right;"><em>Sep 2018 - Sep 2020; Jan 2021 - Aug 2021</em></td>
 </tr>
 </tbody>
 </table>
@@ -135,7 +135,7 @@
 </tbody>
 </table>
 <ul>
-<li><p><em>Developed a Ethereum and Ethereum Classic client, a Scala protocol implementation modeled with Akka actors.</em></p></li>
+<li><p><em>Developed a Ethereum and Ethereum Classic client: a Scala protocol implementation modeled with Akka actors.</em></p></li>
 </ul>
 <ul>
 <li><p><span> <strong><em>Tech Stack</em></strong><span>: Scala (Akka actors), NoSQL (LevelDB and RocksDB) </span> </span></p></li>
