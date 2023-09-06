@@ -18,4 +18,4 @@ echo "<h1>My CV</h1>" > README.md
 tail -n +15 cv.html >> README.md
 
 # Add changes to the current commit
-git add README.md cv-es.pdf cv-sp.pdf
+git add README.md cv-en.pdf cv-sp.pdf

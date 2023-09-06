@@ -7,8 +7,8 @@
 <td style="text-align: left;"> <a href="mailto:nicolastallar@gmail.com">nicolastallar@gmail.com</a></td>
 </tr>
 <tr class="even">
+<td style="text-align: left;"> <a href="https://www.linkedin.com/in/nicol%C3%A1s-tallar-8872a835/">https://www.linkedin.com/in/nicolás-tallar-8872a835/</a> &amp;  <a href="https://github.com/ntallar">https://github.com/ntallar</a></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"> <a href="https://github.com/ntallar">https://github.com/ntallar</a></td>
 </tr>
 </tbody>
 </table>
