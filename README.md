@@ -32,47 +32,41 @@
 <li><table>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;"><strong>PedidosYa</strong></td>
+<td style="text-align: right;">CABA, Argentina</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Senior Dev Go</em></td>
+<td style="text-align: right;"><em>Nov 2023 - actual</em></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p><em>Responsable for the development of iniciatives in various services and gateways of high traffic</em></p></li>
+</ul>
+<ul>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Go, Grafana </span> </span></p></li>
+<li><p><span> <strong>Migration from Datadog to Grafana</strong> </span></p></li>
+<li><p><span> <strong>Complete redesign of the team services</strong><span>: Including: migration to new infrastructure, comparisons after conversions to verify behavior, support client migration </span> </span></p></li>
+</ul></li>
+<li><table>
+<tbody>
+<tr class="odd">
 <td style="text-align: left;"><strong>Globant</strong></td>
 <td style="text-align: right;">CABA, Argentina</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><em>Tech Leader &amp; Typescript Dev</em></td>
-<td style="text-align: right;"><em>Mar 2023 - Nov 2023</em></td>
+<td style="text-align: left;"><em>Tech Leader</em></td>
+<td style="text-align: right;"><em>Dec 2021 - Nov 2023</em></td>
 </tr>
 </tbody>
 </table>
 <ul>
-<li><p><em>Led development of various services for a marketplace application</em></p></li>
+<li><p><em>Led development of various projects across different programming languages</em></p></li>
 </ul>
 <ul>
-<li><p><span> <strong><em>Tech Stack</em></strong><span>: Typescript, NestJS, Azure, SQL </span> </span></p></li>
+<li><p><span> <strong><em>Tech Stack</em></strong><span>: Typescript (framework: NestJS), Kotlin (libraries: Arrow, framework: Spring Boot), Java (framework: Spring Boot), Solidity (framework: Hardhat, libraries: OpenZeppelin) Azure, AWS (DynamoDB, S3) </span> </span></p></li>
 <li><p><span> <strong>Extensive integration to the Azure ecosystem</strong><span>: Blob Storage (using SAS), Queue Storage, Azure functions </span> </span></p></li>
-<li><p><span> <strong>Design &amp; coordination for the integration of all services of the application</strong> </span></p></li>
-</ul></li>
-<li><table>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><em>Tech Leader &amp; Solidity Dev at <a href="https://gitlab.com/atixlabs-oss/agua">Agua project</a></em></td>
-<td style="text-align: right;"><em>Dec2022 - Mar 2023</em></td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li><p><span> <strong><em>Tech Stack</em></strong><span>: Solidity, Javascript, Hardhat, OpenZeppelin </span> </span></p></li>
-</ul></li>
-<li><table>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><em>Tech Leader &amp; Kotlin Dev</em></td>
-<td style="text-align: right;"><em>Dec 2021 - Dec 2022</em></td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li><p><em>Led development of various microservices for a gaming application: a Kotlin and a Java microservice, both built on the Spring Boot framework.</em></p></li>
-</ul>
-<ul>
-<li><p><span> <strong><em>Tech Stack</em></strong><span>: Kotlin (libraries: Arrow), Java, Spring Boot, AWS (DynamoDB, S3) </span> </span></p></li>
 <li><p><span> <strong>Market Research of Wallet and NFT products and protocols</strong> </span></p></li>
 </ul></li>
 <li><table>
@@ -109,7 +103,6 @@
 <li><p><span> <strong><em>Tech Stack</em></strong><span>: Scala (libraries: Akka, Cats, Monix), Solidity, NoSQL (RocksDB) </span> </span></p></li>
 <li><p><span> <strong>Strict functional programming</strong> </span></p></li>
 <li><p><span> <strong>Research-oriented development</strong><span>: in close communication with a dedicated research team in charge of creating the protocol changes that our team implemented. </span> </span></p></li>
-<li><p><span> <strong>Design &amp; implementation of the synchronization process between nodes of the cryptocurrency</strong> </span></p></li>
 </ul></li>
 <li><table>
 <tbody>
