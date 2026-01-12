@@ -22,7 +22,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>BS+Master in Computer Science; GPA: 9.36</em></td>
-<td style="text-align: right;"><em>Jan. 2012 – Aug. 2023</em></td>
+<td style="text-align: right;"><em>Jan 2012 – Aug 2023</em></td>
 </tr>
 </tbody>
 </table></li>
@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>Tech Leader &amp; Typescript Dev</em></td>
-<td style="text-align: right;"><em>Mar 2023 - now</em></td>
+<td style="text-align: right;"><em>Mar 2023 - Nov 2023</em></td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +53,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><em>Tech Leader &amp; Solidity Dev at <a href="https://gitlab.com/atixlabs-oss/agua">Agua project</a></em></td>
-<td style="text-align: right;"><em>Dec 2022 - Mar 2023</em></td>
+<td style="text-align: right;"><em>Dec2022 - Mar 2023</em></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +64,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><em>Tech Leader &amp; Kotlin Dev</em></td>
-<td style="text-align: right;"><em>Dec 2021 - Dec 2022</em></td>
+<td style="text-align: right;"><em>Dec 2021 - Dec 2022</em></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><em>Tech Leader &amp; Scala Dev at <a href="https://github.com/input-output-hk/mantis">Mantis project</a></em></td>
-<td style="text-align: right;"><em>Sep 2020 - Jan 2021</em></td>
+<td style="text-align: right;"><em>Sep 2020 - Jan 2021</em></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><em>Squad Captain &amp; Scala Dev</em></td>
-<td style="text-align: right;"><em>Sep 2018 - Sep 2020; Jan 2021 - Aug 2021</em></td>
+<td style="text-align: right;"><em>Sep 2018 - Sep 2020; Jan 2021 - Aug 2021</em></td>
 </tr>
 </tbody>
 </table>
@@ -115,7 +115,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><em>Haskell Dev at <a href="https://github.com/input-output-hk/project-icarus-importer">Yoroi project</a></em></td>
-<td style="text-align: right;"><em>Jan 2018 - Sep 2018</em></td>
+<td style="text-align: right;"><em>Jan 2018 - Sep 2018</em></td>
 </tr>
 </tbody>
 </table>
@@ -130,7 +130,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><em>Scala Dev at <a href="https://github.com/input-output-hk/mantis">Mantis project</a></em></td>
-<td style="text-align: right;"><em>Dec 2016 - Jan 2018</em></td>
+<td style="text-align: right;"><em>Dec 2016 - Jan 2018</em></td>
 </tr>
 </tbody>
 </table>
@@ -145,8 +145,8 @@
 </ul>
 <h1 id="programming-skills">Programming Skills</h1>
 <ul>
-<li><p><span> <strong>Languages</strong><span>: Scala (w/libraries: Akka, Cats, Monix), Kotlin (w/libraries: Arrow), Typescript, Haskell </span> </span></p></li>
-<li><p><span> <strong>Technologies</strong><span>: Spring Boot, NestJS, NoSQL, SQL, AWS (DynamoDB, S3), Azure (functions, Blob, Queue) </span> </span></p></li>
+<li><p><span> <strong>Languages</strong><span>: Go, Scala (w/libraries: Akka, Cats, Monix) </span> </span></p></li>
+<li><p><span> <strong>Technologies</strong><span>: Grafana, NoSQL, SQL, AWS (DynamoDB, S3), Azure (functions, Blob, Queue) </span> </span></p></li>
 </ul>
 <h1 id="projects-courses">Projects &amp; Courses</h1>
 <ul>

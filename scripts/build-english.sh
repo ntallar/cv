@@ -1,1 +1,0 @@
-pdflatex -jobname=cv-en "\def\dict{dicts/english.tex} \include{cv}"

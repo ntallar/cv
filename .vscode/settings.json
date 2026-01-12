@@ -2,17 +2,17 @@
   "latex-workshop.latex.recipe.default": "first",
   "latex-workshop.latex.recipes": [
     {
-      "name": "builderEnglish",
+      "name": "builderCV",
       "tools": [
-        "builderEnglish"
+        "builderCV"
       ]
     },
   ],
   "latex-workshop.latex.tools": [
     {
-      "name": "builderEnglish",
-      "command": "./scripts/build-english.sh",
-      "args": []
+      "name": "builderCV",
+      "command": "make",
+      "args": ["all"]
     }
   ]
 }
